@@ -5,3 +5,6 @@ run eclipse from quartus
 Import sopcinfo file
 Copy the default "main.h" and "main.c"
 Start working in main.c
+
+Copy the alter usb blaster driver to /etc/udev/rules.d/
+Driver name: 51-altera-usb-blaster.rules
